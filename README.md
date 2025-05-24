@@ -5,3 +5,4 @@ Arrays
 Lists
 linked list
 stack
+queue
