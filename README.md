@@ -1,5 +1,6 @@
 # DSA
 
+linear Data structure 
 Strings
 Arrays
 Lists
