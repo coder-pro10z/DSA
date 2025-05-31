@@ -12,3 +12,4 @@ Non Linear Data Structure
 graph 
 tree
 B tree
+Binary Tree
