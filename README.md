@@ -7,6 +7,7 @@ Lists
 linked list
 stack
 queue
+<T>
 
 Non Linear Data Structure
 graph 
