@@ -1,7 +1,7 @@
 # DSA
 
 linear Data structure 
-Strings
+Strings- reversal
 Arrays
 Lists
 linked list
