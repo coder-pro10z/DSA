@@ -2,7 +2,7 @@
 
 linear Data structure 
 Strings- reversal
-Arrays
+Arrays - sliding window
 Lists
 linked list
 stack
