@@ -14,3 +14,6 @@ graph
 tree
 B tree
 Binary Tree
+
+
+Algorithm 
